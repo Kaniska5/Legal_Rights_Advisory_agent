@@ -124,12 +124,6 @@ legal_ai_agent/
 └── README.md
 ```
 
-## Constraints
-
-- Local embeddings only: `all-MiniLM-L6-v2`
-- ChromaDB persisted under `chroma_db/`
-- No OpenAI or other paid APIs
-- Modular, production-oriented layout
 
 ## Disclaimer
 
