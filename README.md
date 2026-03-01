@@ -104,7 +104,6 @@ Response: structured JSON with `law_category`, `relevant_sections`, `legal_expla
   "disclaimer": "..."
 }
 ```
-
 ## Project Structure
 
 ```
