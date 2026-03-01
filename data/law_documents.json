@@ -1,0 +1,44 @@
+{
+  "documents": [
+    {
+      "text": "Indian Penal Code Section 506 - Criminal intimidation. Whoever commits criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. If the threat is to cause death or grievous hurt, imprisonment may extend to seven years or with fine or both.",
+      "metadata": { "law_type": "criminal_law", "source": "IPC", "section": "IPC 506" }
+    },
+    {
+      "text": "Indian Penal Code Section 323 - Voluntarily causing hurt. Whoever voluntarily causes hurt shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+      "metadata": { "law_type": "criminal_law", "source": "IPC", "section": "IPC 323" }
+    },
+    {
+      "text": "Indian Penal Code Section 379 - Theft. Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+      "metadata": { "law_type": "criminal_law", "source": "IPC", "section": "IPC 379" }
+    },
+    {
+      "text": "Indian Penal Code Section 420 - Cheating. Whoever cheats and thereby dishonestly induces the person deceived to deliver any property shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "metadata": { "law_type": "criminal_law", "source": "IPC", "section": "IPC 420" }
+    },
+    {
+      "text": "Code of Criminal Procedure Section 154 - FIR. Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him. Refusal to register an FIR is illegal; the complainant can approach the Superintendent of Police or Magistrate.",
+      "metadata": { "law_type": "criminal_law", "source": "CrPC", "section": "CrPC 154" }
+    },
+    {
+      "text": "Code of Criminal Procedure Section 156 - Investigation by police. Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case. The police have a duty to investigate once FIR is registered.",
+      "metadata": { "law_type": "criminal_law", "source": "CrPC", "section": "CrPC 156" }
+    },
+    {
+      "text": "Consumer Protection Act 2019 - Definition of consumer. Consumer means any person who buys any goods or hires or avails any services for a consideration. It includes any user of such goods or beneficiary of such services.",
+      "metadata": { "law_type": "consumer_protection", "source": "CPA 2019", "section": "CPA 2(7)" }
+    },
+    {
+      "text": "Consumer Protection Act 2019 - Deficiency in service. Deficiency means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law or has been undertaken to be performed by a person in pursuance of a contract.",
+      "metadata": { "law_type": "consumer_protection", "source": "CPA 2019", "section": "CPA 2(11)" }
+    },
+    {
+      "text": "Consumer Protection Act 2019 - District Commission jurisdiction. The District Commission shall have jurisdiction to entertain complaints where the value of the goods or services and the compensation, if any, claimed does not exceed one crore rupees.",
+      "metadata": { "law_type": "consumer_protection", "source": "CPA 2019", "section": "CPA 35" }
+    },
+    {
+      "text": "Consumer Protection Act 2019 - Filing a complaint. A complaint may be filed in writing with the District Commission by the consumer, any voluntary consumer association, or the Central or State Government. The complaint should state the facts and the relief sought.",
+      "metadata": { "law_type": "consumer_protection", "source": "CPA 2019", "section": "CPA 38" }
+    }
+  ]
+}

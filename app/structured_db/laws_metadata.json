@@ -1,0 +1,96 @@
+{
+  "categories": {
+    "criminal_law": [
+      {
+        "act": "Indian Penal Code (IPC)",
+        "section": "IPC 506",
+        "title": "Criminal intimidation",
+        "summary": "Whoever commits criminal intimidation shall be punished with imprisonment up to 2 years or fine or both. If threat is to cause death or grievous hurt, imprisonment up to 7 years or fine or both.",
+        "punishment": "Imprisonment up to 2 years or fine or both; if threat to cause death/grievous hurt: up to 7 years or fine or both",
+        "bailable": "Yes (first part); No (if threat to cause death/grievous hurt)"
+      },
+      {
+        "act": "Indian Penal Code (IPC)",
+        "section": "IPC 323",
+        "title": "Voluntarily causing hurt",
+        "summary": "Whoever voluntarily causes hurt shall be punished with imprisonment up to 1 year or fine up to Rs 1000 or both.",
+        "punishment": "Imprisonment up to 1 year or fine up to Rs 1000 or both",
+        "bailable": "Yes"
+      },
+      {
+        "act": "Indian Penal Code (IPC)",
+        "section": "IPC 379",
+        "title": "Theft",
+        "summary": "Whoever commits theft shall be punished with imprisonment up to 3 years or with fine or both.",
+        "punishment": "Imprisonment up to 3 years or fine or both",
+        "bailable": "Yes"
+      },
+      {
+        "act": "Indian Penal Code (IPC)",
+        "section": "IPC 420",
+        "title": "Cheating",
+        "summary": "Whoever cheats and thereby dishonestly induces delivery of property shall be punished with imprisonment up to 7 years and shall also be liable to fine.",
+        "punishment": "Imprisonment up to 7 years and fine",
+        "bailable": "No"
+      },
+      {
+        "act": "Code of Criminal Procedure (CrPC)",
+        "section": "CrPC 154",
+        "title": "FIR - Information in cognizable offences",
+        "summary": "Every information relating to commission of a cognizable offence shall be recorded by the officer in charge of a police station. Refusal to record is illegal.",
+        "punishment": "N/A - Procedural",
+        "bailable": "N/A"
+      },
+      {
+        "act": "Code of Criminal Procedure (CrPC)",
+        "section": "CrPC 156",
+        "title": "Investigation by police",
+        "summary": "Any officer in charge of a police station may investigate any cognizable case without the order of a Magistrate.",
+        "punishment": "N/A - Procedural",
+        "bailable": "N/A"
+      }
+    ],
+    "consumer_protection": [
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "CPA 2(7)",
+        "title": "Definition of consumer",
+        "summary": "Consumer means any person who buys any goods or avails any service for consideration. Includes use of goods/services with approval of buyer.",
+        "punishment": "N/A - Definition",
+        "bailable": "N/A"
+      },
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "CPA 2(11)",
+        "title": "Deficiency in service",
+        "summary": "Deficiency means any fault, imperfection, shortcoming or inadequacy in the quality, nature or manner of performance of a service.",
+        "punishment": "N/A - Definition",
+        "bailable": "N/A"
+      },
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "CPA 35",
+        "title": "Jurisdiction of District Commission",
+        "summary": "District Commission shall have jurisdiction to entertain complaints where value of goods/services and compensation claimed is up to Rs 1 crore.",
+        "punishment": "N/A - Jurisdiction",
+        "bailable": "N/A"
+      },
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "CPA 38",
+        "title": "Complaint to District Commission",
+        "summary": "A complaint may be filed in writing with the District Commission. Can be filed by consumer or any voluntary consumer association.",
+        "punishment": "N/A - Procedure",
+        "bailable": "N/A"
+      },
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "CPA 59",
+        "title": "Penalty for non-compliance",
+        "summary": "Whoever fails to comply with any order of the Commission may be punished with imprisonment up to 3 years or fine up to Rs 1 lakh or both.",
+        "punishment": "Imprisonment up to 3 years or fine up to Rs 1 lakh or both",
+        "bailable": "As per court"
+      }
+    ]
+  }
+}
